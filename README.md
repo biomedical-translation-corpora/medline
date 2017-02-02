@@ -1,6 +1,6 @@
 # Medline
 
-It includes parallel titles from publications index Medline for the following language pairs:
+It includes parallel titles from publications index [Medline](https://www.ncbi.nlm.nih.gov/pubmed) for the following language pairs:
 
 - English-French and French-English
 - English-Spanish and Spanish-English
